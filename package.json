@@ -1,6 +1,6 @@
 {
   "name": "enviaquestaobd",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Envia a questao para o banco de questões",
   "main": "index.js",
   "scripts": {
